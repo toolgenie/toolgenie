@@ -45,7 +45,11 @@ Explore our growing collection of tools, designed to help you save time and effo
    - **Timer and Stopwatch**: A simple tool to manage your time effectively.  
      👉 [Timer and Stopwatch](https://toolgenie.org/timer-and-stopwatch)  
    - **Word Counter and Text Analyzer**: Analyze your text with ease.  
-     👉 [Word Counter and Text Analyzer](https://toolgenie.org/word-counter-and-text-analyzer)  
+     👉 [Word Counter and Text Analyzer](https://toolgenie.org/word-counter-and-text-analyzer)
+
+7. **JSON Tools**
+   - **JSON Editor and Formatter**: A simple tool to edit, format and compare json online.
+     👉 [JSON Editor and Formatter](https://toolgenie.org/json-editor)
 
 ---
 
