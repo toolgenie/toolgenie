@@ -51,6 +51,10 @@ Explore our growing collection of tools, designed to help you save time and effo
    - **JSON Editor and Formatter**: A simple tool to edit, format and compare json online.
      👉 [JSON Editor and Formatter](https://toolgenie.org/json-editor)
 
+8. **Horoscope**
+   - **Daily Horoscope checker**: A simple tool to quickly check your daily horoscope.
+     👉 [JSON Editor and Formatter](https://toolgenie.org/horoscope)
+
 ---
 
 ## 📚 **Our Vision**
