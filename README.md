@@ -55,6 +55,9 @@ Explore our growing collection of tools, designed to help you save time and effo
    - **Daily Horoscope checker**: A simple tool to quickly check your daily horoscope.
      👉 [JSON Editor and Formatter](https://toolgenie.org/horoscope)
 
+9. **Passwrod Strength Checker**
+   - **Password Strength Checker**: A quick and reliable tool to test and improve your password security.
+     👉 [Password Strength Checker](https://toolgenie.org/password-strength-checker)
 ---
 
 ## 📚 **Our Vision**
